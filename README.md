@@ -1,3 +1,3 @@
 # gitclassnew
 test project for git
-for practice 
+it is for practice 
